@@ -1,0 +1,7 @@
+//moddir model optmz
+
+load_file("nrngui.hoc")
+chdir("optmz")
+load_file("mulfit.hoc")
+chdir("../model")
+load_file("main_demoMRF.hoc")
