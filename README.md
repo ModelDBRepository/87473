@@ -108,8 +108,8 @@ Other files in this directory:
 - simanneal_unconst.html: HTML help file written by Andrew Davison (Unconstrained SA)
 - simannrctr_help.pdf: Constrained Simulated Annealing help file.
 
-20131216 Model updated to work with NEURON version 7.3. A variable "t" was changed to "tt" in the opmtx/feature_weaver.mod file.
+## Changelog
 
----
+20131216 Model updated to work with NEURON version 7.3. A variable "t" was changed to "tt" in the opmtx/feature_weaver.mod file.
 
 2025-05-27 – Standardized to Markdown.
