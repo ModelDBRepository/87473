@@ -110,6 +110,6 @@ Other files in this directory:
 
 ## Changelog
 
-20131216 Model updated to work with NEURON version 7.3. A variable "t" was changed to "tt" in the opmtx/feature_weaver.mod file.
+2013-12-16 Model updated to work with NEURON version 7.3. A variable "t" was changed to "tt" in the opmtx/feature_weaver.mod file.
 
 2025-05-27 – Standardized to Markdown.
